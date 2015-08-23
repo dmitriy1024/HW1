@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1.Conditions.Task1", "HW1.Conditions.Task1\HW1.Conditions.Task1.csproj", "{32551A36-D6F0-469D-8E23-8376454A9E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1.Conditions.Task2", "HW1.Conditions.Task2\HW1.Conditions.Task2.csproj", "{2241946B-7052-4390-87DC-B18C7F0CA1AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1.MachineMathematics.Task1", "HW1.MachineMathematics.Task1\HW1.MachineMathematics.Task1.csproj", "{8EE13213-1423-437F-B317-760E847FEE3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1.MachineMathematics.Task3", "HW1.MachineMathematics.Task3\HW1.MachineMathematics.Task3.csproj", "{E6FCA43E-CC1B-46A4-BADC-8EE8B3810811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1.MachineMathematics.Task4", "HW1.MachineMathematics.Task4\HW1.MachineMathematics.Task4.csproj", "{9D25C0BF-186C-4291-B44E-19321229D176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32551A36-D6F0-469D-8E23-8376454A9E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32551A36-D6F0-469D-8E23-8376454A9E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32551A36-D6F0-469D-8E23-8376454A9E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32551A36-D6F0-469D-8E23-8376454A9E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2241946B-7052-4390-87DC-B18C7F0CA1AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2241946B-7052-4390-87DC-B18C7F0CA1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2241946B-7052-4390-87DC-B18C7F0CA1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2241946B-7052-4390-87DC-B18C7F0CA1AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE13213-1423-437F-B317-760E847FEE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE13213-1423-437F-B317-760E847FEE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE13213-1423-437F-B317-760E847FEE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE13213-1423-437F-B317-760E847FEE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6FCA43E-CC1B-46A4-BADC-8EE8B3810811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FCA43E-CC1B-46A4-BADC-8EE8B3810811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FCA43E-CC1B-46A4-BADC-8EE8B3810811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FCA43E-CC1B-46A4-BADC-8EE8B3810811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D25C0BF-186C-4291-B44E-19321229D176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D25C0BF-186C-4291-B44E-19321229D176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D25C0BF-186C-4291-B44E-19321229D176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D25C0BF-186C-4291-B44E-19321229D176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
